@@ -1,0 +1,30 @@
+
+
+.content-wrapper, .main-footer{
+
+    margin:auto!important;
+
+}
+
+#chat{
+    min-height: 350px;
+    border: 1px solid green;
+    overflow: auto;
+    margin-left: 35px;
+}
+
+#chat .container{
+    width: 670px;
+    margin: 0!important;
+}
+
+#chat-message{
+    width: 485px;
+}
+
+
+
+#chat-form{
+    margin: 0!important;
+    width: 95%;
+}
